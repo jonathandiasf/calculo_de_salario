@@ -18,11 +18,11 @@ Navegue até a pasta onde está o arquivo
 
 Digite: gcc calculo_de_salario.c -o calculo_de_salario
 
-Isso gera um executável chamado vetores.
+Isso gera um executável chamado calculo_de_salario.
 
 4. Execute o programa
 
-No Linux/Mac ./calculo_de_salario //
+No Linux/Mac ./calculo_de_salario 
 
 No Windows calculo_de_salario.exe
 
